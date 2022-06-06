@@ -35,6 +35,7 @@ d'autres enregistrements (e.g. pour gérer des sous-domaines).
 La configuration recommandée ressemble typiquement à :
 
 ```bash
+$TTL 3600
 #
 # Enregistrements IPv4/IPv6 basiques
 #
